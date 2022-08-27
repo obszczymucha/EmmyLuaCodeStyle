@@ -32,3 +32,13 @@ out
 3rd/uriparser/src/config.h
 .idea
 .vscode
+
+**/cmake_install.cmake
+**/CMakeFiles
+
+**/Makefile
+build/
+CMakeCache.txt
+**/CTestTestfile.cmake
+compile_commands.json
+.luarc.json
